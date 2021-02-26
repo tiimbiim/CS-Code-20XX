@@ -1,0 +1,4 @@
+﻿  grossSalaryCalc.cpp
+C:\Users\timbi\source\repos\Gross Salary Calculator\Gross Salary Calculator\grossSalaryCalc.cpp(21,9): warning C4101: 'totalPennies': unreferenced local variable
+C:\Users\timbi\source\repos\Gross Salary Calculator\Gross Salary Calculator\grossSalaryCalc.cpp(22,6): warning C4101: 'roundedPennies': unreferenced local variable
+  Gross Salary Calculator.vcxproj -> C:\Users\timbi\source\repos\Gross Salary Calculator\Debug\Gross Salary Calculator.exe

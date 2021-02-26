@@ -1,0 +1,3 @@
+﻿  salaryComp_Funcs.cpp
+C:\Users\timbi\source\repos\salaryComputerFunctions\salaryComputerFunctions\salaryComp_Funcs.cpp(113): warning C4715: 'getNetSalary': not all control paths return a value
+  salaryComputerFunctions.vcxproj -> C:\Users\timbi\source\repos\salaryComputerFunctions\Debug\salaryComputerFunctions.exe

@@ -1,0 +1,2 @@
+﻿  DrivingTestArray_VuTim.cpp
+C:\Users\timbi\source\repos\DrivingTestArray_VuTim\DrivingTestArray_VuTim\DrivingTestArray_VuTim.cpp(105,9): error C2082: redefinition of formal parameter 'len'

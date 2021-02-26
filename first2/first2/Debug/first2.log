@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\timbi\source\repos\first2\first2\Source.cpp(176,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\timbi\source\repos\first2\first2\Source.cpp(181,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\timbi\source\repos\first2\first2\Source.cpp(185,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  first2.vcxproj -> C:\Users\timbi\source\repos\first2\Debug\first2.exe
